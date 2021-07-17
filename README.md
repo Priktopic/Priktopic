@@ -1,7 +1,5 @@
-## Hey there 👋  I'm **Priyanka** 
-### A Data scientist from **Bangalore**, **India**
-  
-
+## Hey there 👋  I'm Priyanka :octocat:
+###### A Data scientist from **Bangalore**, **India**   
 ![counter](https://enrlr512omkm3nb.m.pipedream.net)
 
 
@@ -17,7 +15,7 @@
 
 * 💬  Ask me anything. I'm happy to help.
 
-### Technologies
+#### Technologies
 <p>
   <img alt="Data Analysis" src="https://img.shields.io/badge/Data Analysis-61DAFB?logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-DD0031?logoColor=white&style=for-the-badge" />
