@@ -1,19 +1,20 @@
-## Hey there 👋  I'm Priyanka :octocat:
+## Hey there 👋  I'm Priyanka 👩‍💻
 ###### A Data scientist from **Bangalore**, **India**   
 ![counter](https://enrlr512omkm3nb.m.pipedream.net)
 
+Passionate about Artificial Intelligience | Autodidact | Ailurophile 🐈
 
-* 💻  Currently working as a Senior Data Scientist-I in Fintech domain
+💻  Currently working as a Senior Data Scientist-I in Fintech domain
 
-* 🔵  Hold varied experience
+🔵  Hold varied experience
 
-* 🌱  **Voluntary Contributions** : 
+🌱  **Voluntary Contributions** : 
   * Content Creator for **Data Science**
   * Provide **Machine Learning Training** to fellow mates.
 
-* 👯  Mentor and Public Speaker
+👯  Mentor and Public Speaker
 
-* 💬  Ask me anything. I'm happy to help.
+💬  Ask me anything. I'm happy to help.
 
 #### Technologies
 <p>
@@ -66,5 +67,11 @@
   <img
     alt="Blog"
     src="https://img.shields.io/badge/Blog-808080?logo=medium&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.quora.com/profile/Priyanka-Banerjee-48">
+  <img
+    alt="Quora"
+    src="https://img.shields.io/badge/Quora-A30000?logo=quora&logoColor=white&style=for-the-badge"
   />
 </a>
