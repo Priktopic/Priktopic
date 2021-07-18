@@ -1,14 +1,17 @@
-## Hey there 👋  I'm Priyanka 👩‍💻
-###### A Data scientist from **Bangalore**, **India**   
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Priyanka 👩‍💻
+
+###### A Data scientist from **Bangalore**, **India**
+
+
 ![counter](https://enrlr512omkm3nb.m.pipedream.net)
 
 Passionate about Artificial Intelligience | Autodidact | Ailurophile 🐈
 
 💻  Currently working as a Senior Data Scientist-I in Fintech domain
 
-🔵  Hold varied experience
+🔵  Holds varied experiences
 
-🌱  **Voluntary Contributions** : 
+🌱  Voluntary Contributions : 
   * Content Creator for **Data Science**
   * Provide **Machine Learning Training** to fellow mates.
 
@@ -32,30 +35,6 @@ Passionate about Artificial Intelligience | Autodidact | Ailurophile 🐈
 
 * 💼 Any exciting opportunity? Drop an [email](priyanka@pylambda.com)
 
-<a href="https://discord.gg/KwVFZ8aJ">
-  <img
-    alt="Discord"
-    src="https://img.shields.io/badge/discord-00008B?logo=discord&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.youtube.com/channel/UC6N1kVbzgRKLhejW-ItUJRA">
-  <img
-    alt="Youtube"
-    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
-  />
-</a> 
-</a>
-<a href="https://www.linkedin.com/in/priyanka-banerjee-3005/">
-  <img
-    alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
-  />
-</a>
-<a href="https://www.instagram.com/pylambda/">
-  <img
-    alt="Instagram"
-    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-  />
 </a>
 <a href="https://www.pylambda.com/">
   <img
@@ -69,9 +48,33 @@ Passionate about Artificial Intelligience | Autodidact | Ailurophile 🐈
     src="https://img.shields.io/badge/Blog-808080?logo=medium&logoColor=white&style=for-the-badge"
   />
 </a>
+<a href="https://www.linkedin.com/in/priyanka-banerjee-3005/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://www.youtube.com/channel/UC6N1kVbzgRKLhejW-ItUJRA">
+  <img
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  />
+</a>
 <a href="https://www.quora.com/profile/Priyanka-Banerjee-48">
   <img
     alt="Quora"
     src="https://img.shields.io/badge/Quora-A30000?logo=quora&logoColor=white&style=for-the-badge"
+  />
+</a>
+<a href="https://discord.gg/KwVFZ8aJ">
+  <img
+    alt="Discord"
+    src="https://img.shields.io/badge/discord-00008B?logo=discord&logoColor=white&style=for-the-badge"
+  />
+</a> 
+<a href="https://www.instagram.com/pylambda/">
+  <img
+    alt="Instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
