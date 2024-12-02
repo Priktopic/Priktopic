@@ -7,7 +7,7 @@
 
 Passionate about Artificial Intelligience | Autodidact | Ailurophile 🐈
 
-💻  Currently working as a Senior Data Scientist-I in Fintech domain
+💻  Currently working as Data Science Manager in Novartis
 
 🔵  Holds varied experiences
 
@@ -15,7 +15,7 @@ Passionate about Artificial Intelligience | Autodidact | Ailurophile 🐈
   * Content Creator for **Data Science**
   * Provide **Machine Learning Training** to fellow mates.
 
-👯  Mentor and Public Speaker
+👯  Mentor
 
 💬  Ask me anything. I'm happy to help.
 
